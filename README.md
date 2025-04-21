@@ -1,4 +1,4 @@
-# NOTE: THIS README IS NOT DONE YET SO IS THE PROJECT!! 
+# NOTE: THIS README IS NOT DONE YET!! 
 <h1 align="center">
   <br>
   <a href="-"><img src="https://raw.githubusercontent.com/Joanlood/raw/refs/heads/main/BOOTSMITH.png" alt="Markdownify" width="300"></a>
