@@ -63,6 +63,3 @@
 ## License
 
 [GPL LICENSE](LICENSE)
-
----
-
