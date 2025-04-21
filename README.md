@@ -13,6 +13,12 @@
 <a href="https://github.com/Joanlood/bootsmith/releases">
   <img src="https://img.shields.io/badge/Release-Pre--Development-red" alt="Release">
 </a>
+<a href="https://www.java.com/en/" target="_blank">
+  <img src="https://img.shields.io/badge/Front--End-Java-yellow?style=flat&logo=java&logoColor=white" alt="Java" style="border-radius:5px;">
+</a>
+<a href="https://go.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Back--End-Go-blue">
+</a>
 </p>
 
 <p align="center">
